@@ -1,0 +1,38 @@
+{
+ "NavDrawer":
+    {
+    "mainItems":
+        [
+            {"name":"Dashboard","icon":"fa fa-th-large"},
+            {"name":"Orders","icon":"fa fa-shopping-cart"},
+            {"name":"Customers","icon":"fa fa-user"},
+            {"name":"Reports","icon":"fa fa-bar-chart"},{"name":"Integrations","icon":"fa fa-files-o"}
+        ],
+     "SavedReports":
+        [
+            {"name":"Current month","icon":"fa fa-file-text-o"},
+            {"name":"Last quarter","icon":"fa fa-file-text-o"},
+            {"name":"Year-end sale","icon":"fa fa-file-text-o"}
+        ]
+    },
+
+    "LineChart":
+        {
+        "x": [0, 2, 3, 4,5],
+        "y": [0, 200, 500, 700, 1000]
+        },
+    
+    "RecentOrders":
+        [
+            {"date":"16 Mar,2019","Name":"Elvis Presley","ShipTo":"Tupelo, MS","PaymentMethod":"VISA ****3719","Amount":"312"},
+            {"date":"16 Mar,2019","Name":"Paul McCartney","ShipTo":"London,UK","PaymentMethod":"VISA ****2574","Amount":"866"},
+            {"date":"16 Mar,2019","Name":"Tom Scholz","ShipTo":"Boston, MA","PaymentMethod":"MC ****1253","Amount":"100"},
+            {"date":"16 Mar,2019","Name":"Michael Jackson","ShipTo":"Gary, IN","PaymentMethod":"VISA ****2000","Amount":"654"},
+            {"date":"16 Mar,2019","Name":"Brce Springsteen","ShipTo":"Long Branch, NJ","PaymentMethod":"VISA ****5919","Amount":"212"}
+        ],
+    "Deposits":
+            [{"value":"$3,024.00","date":"15 March,2019"}]
+}
+
+
+
